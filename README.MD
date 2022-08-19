@@ -27,7 +27,7 @@ Example: bash scripts/train.sh
 
 # The contributions of the authors:
 
-* Anh D. Nguyen - 19021208@vnu.edu.vn or ducanhng.work@gmail.com - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam
+* Anh D. Nguyen - 19021208@vnu.edu.vn  - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam
 * Dat T. Nguyen - 19021226@vnu.edu.vn - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam
 * Hoa N. Nguyen - Corresponding author - hoa.nguyen@vnu.edu.vn - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam
 * Hai N. Dao    - namhai249@vnu.edu.vn - VNU Information Technology Institute, Hanoi, Vietnam
