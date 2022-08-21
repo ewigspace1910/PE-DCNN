@@ -62,7 +62,7 @@ def main(cfg, n_workers=2, model_file=""):
     if cfg['backbone'].lower() == 'resnet50':
         if cfg['module'] == 'ir': backbone = Backbone(50, drop_ratio=cfg['drop_ratio'], mode='ir')
         else: backbone = Backbone(50, drop_ratio=cfg['drop_ratio'], mode='ir_se')
-    elif cfg['backbone'].lower() == 'orginalr50':
+    elif cfg['backbone'].lower() == 'originalr50':
         if cfg['module'] == 'ir': backbone = OriginalBackbone(50, drop_ratio=cfg['drop_ratio'], mode='ir')
         else: backbone = OriginalBackbone(50, drop_ratio=cfg['drop_ratio'], mode='ir_se')
     else:
