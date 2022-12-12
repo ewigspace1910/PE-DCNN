@@ -1,5 +1,5 @@
 # PE-DCNN:
-This repository contains our source code of the paper "Impact Analysis of Different Effective Loss Functions by Using Deep Convolutional Neural Network for Face Recognition" submitted to ICADL 2022.
+This repository contains our source code of the paper [Impact Analysis of Different Effective Loss Functions by Using Deep Convolutional Neural Network for Face Recognition](https://link.springer.com/chapter/10.1007/978-3-031-21756-2_8) in <kbd>ICADL 2022</kbd>.
 
 This paper investigates and analyzes the effect of several effective loss functions based on softmax including CosFace, ArcFace and MagFace. 
 The results of our experiments achieve state-of-the-art figures, which show a huge potential of the proposed method in improving performance for face recognition.
